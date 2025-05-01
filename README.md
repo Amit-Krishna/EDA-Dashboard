@@ -65,7 +65,6 @@ Visualizations used to present these findings include Donut Pie Charts, Pie Char
 An interactive dashboard was created in Excel to allow dynamic filtering and exploration of the analysis findings.
 
 *   **Link to Showcase:** [https://tinyurl.com/DashBoardEDA](https://tinyurl.com/DashBoardEDA)
-    *(Note: This link likely leads to a presentation, video, or post showcasing the dashboard and analysis results.)*
 
 ## Conclusion
 
